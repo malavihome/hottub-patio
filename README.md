@@ -52,8 +52,3 @@ Selecting the perfect hot tub depends on your needs, space, and budget. Whether 
 
 ## Conclusion
 This guide provides a comprehensive look into hot tub models, ensuring that you can choose the best one for your needs and lifestyle. Whether you prioritize portability, luxury, or functionality, understanding the options will help you make an informed decision.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
